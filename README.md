@@ -15,38 +15,38 @@ FLEx 8.0 will open (DB1). When it does it converts the file to "the most recent 
 
 The DB2 dataset is created with FLEx 8.3.8 on Linux. It too has custom fields. DB2 has additional lexemes (new entires compared to DB1) that come mostly from texts processed in DB2.
 
-gel_ModOrth
+`gel_ModOrth`
 
 
 
 ### Writing systems for (DB1)
 **Vernacular**:
-gel_IPA
-gel_orth - no data from this writing system in gel Wordlist 2013-02-22 1819.fwbackup  should overwrite gel_orth in the gel 2017 words and texts 2017-06-25 xxxx.fwbackup.
+* gel_IPA
+* gel_orth - no data from this writing system in gel Wordlist 2013-02-22 1819.fwbackup  should overwrite gel_orth in the gel 2017 words and texts 2017-07-12 0021 Backup to send to Dallas for merger.fwbackup.
 
 **Analysis**:
-Eng - English
-Swa - Swahili
-Frn - French
-Hau - Hausa
-Hau_CL - Hausa Common Language
-Spn - Spanish
+* Eng - English
+* Swa - Swahili
+* Frn - French
+* Hau - Hausa
+* Hau_CL - Hausa Common Language
+* Spn - Spanish
 
 ### Fields used in (DB1)
 **Custom fields**:
-Plural
-Class Number
-Class
-POS fr List
-WACWL
+* Plural
+* Class Number
+* Class
+* POS fr List
+* WACWL
 
 **Other fields used**:
-Lexeme
-Citation Form
-Pronunciation
-Semantic Domain
-General Note
-Note
-Gloss
+* Lexeme
+* Citation Form
+* Pronunciation
+* Semantic Domain
+* General Note
+* Note
+* Gloss
 
 (DB1) data can overwrite lexical data in the other FLEx database, as long as the lexemes are matched to the data in (DB2) on the number from the WACWL custom field. Both Databases should have WACWL numbers in them.
