@@ -1,6 +1,6 @@
 # U̠t-Ma'in [gel] FLEx Wordlist database README
 
-This readme is specially written so the two datasets mentioned below can be merged.
+This readme is specially written so the two datasets mentioned below can be merged. The request is that DB1's content is merged into DB2. The older DB's content is mereged into the newer DB, but we hold that the older DB is actually more authoritative.
 
 ## The two data bases
 There are two databases which need to be merged with all data and relationships being retained. The are named as follows:
